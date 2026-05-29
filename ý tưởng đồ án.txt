@@ -1,0 +1,22 @@
+Tên đề tài: 
+Xây dựng hệ thống trợ giảng AI cá nhân hóa học tập tích hợp Moodle LMS dựa trên adaptive quiz và learning analytics (vi)
+An AI-based Adaptive Learning Tutor for Personalized Quiz Recommendation and Learning Analytics in Moodle LMS (en)
+
+Các thành phần chính:
+1. AI chatbot
+2. Adaptive quiz
+3. Recommendation engine
+4. Learning analytics
+5. Moodle integration
+
+Hướng kiến trúc:
+Moodle làm giao diện + plugin tích hợp
+Backend AI xử lý riêng
+Công nghệ sử dụng:
+
+Backend API: Python FastAPI
+Database: PostgreSQL
+ORM: SQLAlchemy
+Quản lý DB trực quan: pgAdmin 4
+Test API: Swagger UI của FastAPI
+Code editor: Visual Studio Code

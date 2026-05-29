@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+.env/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and database
+*.log
+*.sqlite3
+
+# Ignore secrets/config
+.env
+instance/
+
+# Ignore pipenv
+Pipfile.lock
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore coverage
+htmlcov/
+.coverage
+
+# Ignore PyCharm
+.idea/
